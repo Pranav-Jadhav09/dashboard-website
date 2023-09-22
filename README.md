@@ -11,7 +11,7 @@
 <h2 align="center">Dashboard</h2>
 This is a Dashboard site made using HTML5, CSS3 and JavaScript. Made by Mobile-First Approach.
 
-<a href="https://dash-board.onrender.com/"><strong>➥ Live Demo</strong></a>
+<a href="https://onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -34,13 +34,13 @@ To run **Dashboard**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/dashboard-site.git
+sudo git clone https://github.com/Pranav-Jadhav09/dashboard-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/dashboard-site.git
+git clone https://github.com/Pranav-Jadhav09/dashboard-website.git
 ```
 
 ## License
