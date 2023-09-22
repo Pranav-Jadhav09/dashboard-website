@@ -1,0 +1,5 @@
+# Ignore Them
+
+.vscode
+.DS_Store
+node_modules
