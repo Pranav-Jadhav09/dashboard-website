@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/dashboard-te)
+![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/dashboard-website)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
 
 <br />
@@ -11,7 +11,7 @@
 <h2 align="center">Dashboard</h2>
 This is a Dashboard site made using HTML5, CSS3 and JavaScript. Made by Mobile-First Approach.
 
-<a href="https://dash-board.onrender.com/"><strong>➥ Le Demo</strong></a>
+<a href="https://dash-board.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
